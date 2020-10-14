@@ -1,11 +1,11 @@
 ---
 title: "About Me"
 author:
-  - name: "___" 
+  - name: "Ludivine Demoulin" 
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
 
-This section must bu include a short presentation of you.
+  I am a Umons student who studying the biology.
 
-- first name/surname, teacher’s name, class name and academic year
+- Ludivine Demoulin, Bouchet, english class and 2020-2021
