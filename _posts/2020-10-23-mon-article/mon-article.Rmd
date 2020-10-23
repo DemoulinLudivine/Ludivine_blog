@@ -1,10 +1,10 @@
 ---
 title: "Article 1"
 description: |
-  Species of endangered primates.
+  Whales at risk.
 author:
   - name: Ludivine Demoulin
-    url: {https://www.newscientist.com/article/2257483-artificial-rope-bridges-help-stop-rare-primates-jumping-to-extinction/}
+    url: {https://www.bbc.com/news/science-environment-54485407}
 date: 10-23-2020
 output:
   distill::distill_article:
@@ -15,31 +15,34 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# Artificial rope bridges help stop rare primates jumping to extinction.
+# 'Real and imminent' extinction risk to whales
 
 ## 1.Description
 
-- Source of the article : https://www.newscientist.com/article/2257483-artificial-rope-bridges-help-stop-rare-primates-jumping-to-extinction/
-- Date : 15 October 2020.
-- Word count : 247
+- Source of the article : 
+- Date : 10 October 2020.
+- Word count : 726
 
 ## 2.Vocabulary
 
 | Word from the text | Synonym/definition in English | French translation |
 | --- | --- | --- |
-| landslide | avalange | glissement de terrain |
-| leaps | jump | sauts |
-| ropes | cord | cordes |
-| reluctant | hesitant | réticent |
-| island |Island is a land surrounded by water | île |
+| porpoises | Marine animal | marsouins |
+| Lack | deficiency | Manquer de |
+| across | past | à travers |
+| to recover | recuperate | s'en remettre |
+| wildlife | fauna | faune |
+| the path | trail, track | le chemin |
+| to avoid| keep away | éviter |
+| the trend | tendency | la tendance |
 
 ## 3.Analysis table about the study
 
 | Questions | Answers |
 | --- | --- |
-| Researches ? | Write by Clare Wilson, Medical Reporter |
-| Published in ? when (if mentioned) | NewScientist, 15 October 2020 (Journal reference : *Scientific Reports*)  |
-| General topic | Creation of bridges on the china's Hainan Island for the protection of Hainan gibbon. These bridges allow gibbons to protect themselves during landslides. After the 2014 landslide, there were no more than 25 gibbons left.|
-| Procedure/what was examined | The construction of bridges allows gibbons to move from tree to tree or cliff to cliff. |
-| Conclusions/discovery | Nowadays, there are more 30 Hainan gibbons on the island. Now, the bridges are also used for other primate species. |
+| Researches ? | Write by Helen Briggs. More than 350 scientists have agreed to protect whales |
+| Published in ? when (if mentioned) | Published in BBC news, the 10 October 2020 |
+| General topic | Scientists are clear on this subject, the extinction of whales is imminent. In question, the global warming, the pollution of the seas and its overexploitation but the greatest danger is to be caught in the fishing nets. |
+| Procedure/what was examined | In 1970 and 1980, there was a "Save the whales" protest to stop commercial whaling. This year, a petition is underway to protect whales. The petition has already been signed by more than 350 scientists and environmentalists from 40 countries.|
+| Conclusions/discovery | Thanks to the protests of 1970 and 1980, commercial whaling was prohibited. But there is still a long way to go before we have any real results. |
 | Remaining questions | / |

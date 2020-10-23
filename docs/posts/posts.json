@@ -2,19 +2,19 @@
   {
     "path": "posts/2020-10-23-mon-article/",
     "title": "Article 1",
-    "description": "Species of endangered primates.",
+    "description": "Whales at risk.",
     "author": [
       {
         "name": "Ludivine Demoulin",
         "url": {
-          "https://www.newscientist.com/article/2257483-artificial-rope-bridges-help-stop-rare-primates-jumping-to-extinction/": {}
+          "https://www.bbc.com/news/science-environment-54485407": {}
         }
       }
     ],
     "date": "2020-10-23",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-10-23T14:53:45+02:00"
+    "last_modified": "2020-10-23T22:30:07+02:00"
   },
   {
     "path": "posts/about/",
