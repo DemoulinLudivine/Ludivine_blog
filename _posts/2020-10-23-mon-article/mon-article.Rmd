@@ -1,0 +1,45 @@
+---
+title: "Article 1"
+description: |
+  Species of endangered primates.
+author:
+  - name: Ludivine Demoulin
+    url: {https://www.newscientist.com/article/2257483-artificial-rope-bridges-help-stop-rare-primates-jumping-to-extinction/}
+date: 10-23-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Artificial rope bridges help stop rare primates jumping to extinction.
+
+## 1.Description
+
+- Source of the article : https://www.newscientist.com/article/2257483-artificial-rope-bridges-help-stop-rare-primates-jumping-to-extinction/
+- Date : 15 October 2020.
+- Word count : 247
+
+## 2.Vocabulary
+
+| Word from the text | Synonym/definition in English | French translation |
+| --- | --- | --- |
+| landslide | avalange | glissement de terrain |
+| leaps | jump | sauts |
+| ropes | cord | cordes |
+| reluctant | hesitant | réticent |
+| island |Island is a land surrounded by water | île |
+
+## 3.Analysis table about the study
+
+| Questions | Answers |
+| --- | --- |
+| Researches ? | Write by Clare Wilson, Medical Reporter |
+| Published in ? when (if mentioned) | NewScientist, 15 October 2020 (Journal reference : *Scientific Reports*)  |
+| General topic | Creation of bridges on the china's Hainan Island for the protection of Hainan gibbon. These bridges allow gibbons to protect themselves during landslides. After the 2014 landslide, there were no more than 25 gibbons left.|
+| Procedure/what was examined | The construction of bridges allows gibbons to move from tree to tree or cliff to cliff. |
+| Conclusions/discovery | Nowadays, there are more 30 Hainan gibbons on the island. Now, the bridges are also used for other primate species. |
+| Remaining questions | / |
