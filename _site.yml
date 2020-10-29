@@ -14,6 +14,7 @@ navbar:
 base_url: Ludivine.github.io/Ludivine_blog/
 collections:
     posts:
+     disqus : ludivine-blog
       share: [twitter, linkedin, facebook]
       #disqus: 
 output:
