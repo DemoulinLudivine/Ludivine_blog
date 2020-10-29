@@ -10,13 +10,12 @@ navbar:
     - text: "About Me"
       href: "posts/about/index.html"
     - icon: fab fa-github
-      href: https://github.com/DemoulinLudivine/Ludivine_blog.git
-base_url: Ludivine.github.io/Ludivine_blog/
+      href: https://github.com/DemoulinLudivine/Ludivine_blog
+base_url: http://demoulinludivine.github.io/Ludivine_blog/
 collections:
     posts:
-     disqus : ludivine-blog
-      share: [twitter, linkedin, facebook]
-      #disqus: 
+     disqus: ludivines-blog-1
+    share: [twitter, linkedin, facebook]
 output:
   distill::distill_article:
     css: style.css
