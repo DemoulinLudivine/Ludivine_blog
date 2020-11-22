@@ -1,0 +1,48 @@
+---
+title: "Article 3"
+description: |
+  A short description of the post.
+author:
+  - name: Demoulin Ludivine
+    url: {https://www.bbc.co.uk/newsround/54069944}
+date: 11-20-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# WWF Living Planet Report: Future of wildlife species in danger
+
+## 1.Description
+
+- Source of the article : {https://www.bbc.co.uk/newsround/54069944} 
+- Date : 10 september 2020.
+- Word count : 765
+
+## 2.Vocabulary
+
+| Word from the text | Synonym/definition in English | French translation |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+## 3.Analysis table about the study
+
+| Questions | Answers |
+| --- | --- |
+| Researches ? |  |
+| Published in ? when (if mentioned) |  |
+| General topic |  |
+| Procedure/what was examined |  |
+| Conclusions/discovery |  |
+| Remaining questions | / |

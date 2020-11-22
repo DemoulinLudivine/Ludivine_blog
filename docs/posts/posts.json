@@ -1,5 +1,24 @@
 [
   {
+    "path": "posts/2020-11-20-graphicdescription/",
+    "title": "Graph on total weight of urchins according to their origin",
+    "description": "Weight comparison of farm urchins to fishery urchins.",
+    "author": [
+      {
+        "name": "Demoulin Ludivine",
+        "url": {
+          "https://demoulinludivine.github.io/Ludivine_blog/": {}
+        }
+      }
+    ],
+    "date": "2020-11-20",
+    "categories": [],
+    "preview": "posts/2020-11-20-graphicdescription/graphicdescription_files/figure-html5/histo_fact-1.png",
+    "last_modified": "2020-11-22T21:25:51+01:00",
+    "preview_width": 1248,
+    "preview_height": 768
+  },
+  {
     "path": "posts/meal/",
     "title": "My English Activity Log : MEAL",
     "description": {},
@@ -48,35 +67,6 @@
     "categories": [],
     "preview": {},
     "last_modified": "2020-10-19T15:10:50+02:00"
-  },
-  {
-    "path": "posts/2019-10-24-bacteria-antobiotics/",
-    "title": "Bacterium adaptation",
-    "description": "Analysis of \"More than 6,000 antibiotic resistance genes discovered in the bacteria that inhabit the human gut\"",
-    "author": [
-      {
-        "name": "Student Unknown",
-        "url": {}
-      },
-      {
-        "name": "Nicolas Devilez",
-        "url": {}
-      },
-      {
-        "name": "Engels Guyliann",
-        "url": "https://guyliann.netlify.com/fr"
-      }
-    ],
-    "date": "2020-10-01",
-    "categories": [
-      "English for Science",
-      "Bacteria",
-      "Adaptation"
-    ],
-    "preview": "posts/2019-10-24-bacteria-antobiotics/images/jpg120051fa.png",
-    "last_modified": "2020-10-19T15:10:50+02:00",
-    "preview_width": 3333,
-    "preview_height": 2667
   },
   {
     "path": "posts/2019-10-25-biggest-rodent/",

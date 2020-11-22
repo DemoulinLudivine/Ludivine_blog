@@ -1,0 +1,48 @@
+---
+title: "Article 4"
+description: |
+  A short description of the post.
+author:
+  - name: Demoulin Ludivine
+    url: {https://www.livescience.com/handfish-extinct.html}
+date: 11-20-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Koalas face extinction in New South Wales within 30 years, report warns
+
+## 1.Description
+
+- Source of the article : {https://www.livescience.com/handfish-extinct.html} 
+- Date : 15 July 2020.
+- Word count : 624
+
+## 2.Vocabulary
+
+| Word from the text | Synonym/definition in English | French translation |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+## 3.Analysis table about the study
+
+| Questions | Answers |
+| --- | --- |
+| Researches ? |  |
+| Published in ? when (if mentioned) |  |
+| General topic |  |
+| Procedure/what was examined |  |
+| Conclusions/discovery |  |
+| Remaining questions | / |

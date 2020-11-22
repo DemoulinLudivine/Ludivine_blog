@@ -1,0 +1,39 @@
+---
+title: "Graph on total weight of urchins according to their origin"
+description: |
+  Weight comparison of farm urchins to fishery urchins.
+author:
+  - name: Demoulin Ludivine
+    url: {https://demoulinludivine.github.io/Ludivine_blog/}
+date: 11-20-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+SciViews::R
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r importation}
+data <- read("urchin_bio", package = "data.io")
+```
+
+# Introduction 
+
+In this article, we will compare and show that the origin of urchins has an influence on their weight. For this we have to make a graph.
+
+# Graph
+
+```{r histo_fact}
+chart(urchin_bio, ~ weight %fill=% origin | origin) +
+  geom_histogram(data = select(urchin_bio, -origin), fill = "grey", bins = 25) + 
+  geom_histogram(show.legend = FALSE, bins = 25) +
+  ylab("Effectifs") +
+  scale_fill_viridis_d()
+```
+
+# Analysis
+
+So in this graph, we can see that farm urchins are bigger than urchins. Some farm urchins can weigh up to 100g. Otherwise, the average weight of fishery urchins such as farm urchins is more or less 15g.
