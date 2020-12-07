@@ -1,7 +1,6 @@
 ---
 title: "Article 2"
-description: |
-  A short description of the post.
+description: By 2050, the koalas of New South Wales are predicted to be completely extinct.
 author:
   - name: Demoulin Ludivine
     url: {https://www.abc.net.au/news/2020-06-30/nsw-koalas-report-warns-of-extinction/12406216}
@@ -27,22 +26,25 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Word from the text | Synonym/definition in English | French translation |
 | --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| inquiry | examination/search | enquête |
+| to release | liberate | libérer |
+| bushfires | forest fire | feux de brousse |
+| instead | alternative | au lieu |
+| scheme | plot/plan/project | schéma |
+| roads | location where cars can circulate | route |
+| ahead | forwards | devant |
+| to explain | describe | expliquer |
+| the fate | destiny | le destin |
+| coast | scaboard | côté |
+| backwards | the opposite of forward | en arrière |
 
 ## 3.Analysis table about the study
 
 | Questions | Answers |
 | --- | --- |
-| Researches ? |  |
-| Published in ? when (if mentioned) |  |
-| General topic |  |
-| Procedure/what was examined |  |
-| Conclusions/discovery |  |
+| Researches ? | Write by Bruce MacKenzie and Timothy Fernandez. And with the advice of the committee chairwoman, Cate Faehrmann.  |
+| Published in ? when (if mentioned) | Published in ABC news, the 30 Jun 2020 at 5:27am. |
+| General topic | Search for a solution for the conservation of koalas, following a huge bushfire. More than 5,000 koalas perished in that fire. |
+| Procedure/what was examined | Procedures for the protection of koalas : Pay farmers to stop clearing their trees ; Either remove the exclusion fences on Appin Road or build underpasses and overpasse ; Creation of a national park before the start of work on Figtree Hill ; Creation of a Georges River National Park to protect the koalas of southwest Sydney. |
+| Conclusions/discovery | In conclusion, it is essential to react quickly to avoid the extinction of Australia's emblematic animal. So that our descendants can also see this beautiful animal in its natural habitat not in 2020. |
 | Remaining questions | / |

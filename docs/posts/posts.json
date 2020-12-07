@@ -14,9 +14,26 @@
     "date": "2020-11-20",
     "categories": [],
     "preview": "posts/2020-11-20-graphicdescription/graphicdescription_files/figure-html5/histo_fact-1.png",
-    "last_modified": "2020-11-22T21:25:51+01:00",
+    "last_modified": "2020-11-22T21:29:26+01:00",
     "preview_width": 1248,
     "preview_height": 768
+  },
+  {
+    "path": "posts/2020-11-20-mon-article/",
+    "title": "Article 2",
+    "description": "By 2050, the koalas of New South Wales are predicted to be completely extinct.",
+    "author": [
+      {
+        "name": "Demoulin Ludivine",
+        "url": {
+          "https://www.abc.net.au/news/2020-06-30/nsw-koalas-report-warns-of-extinction/12406216": {}
+        }
+      }
+    ],
+    "date": "2020-11-20",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-12-07T20:08:17+01:00"
   },
   {
     "path": "posts/meal/",
