@@ -54,7 +54,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | --- | --- |
 | Researches ? | Write by Laura Geggel |
 | Published in ? when (if mentioned) | Published in LiveScience, the 15 July 2020 |
-| General topic | The "SU" fish is the first known extinction of smooth-handed fish. These fish were found off the coast of Tasmania. Hand fish are homebodies, that is to say that their habitat area is small. If it is destroyed, they can no longer find housing. So these fish are very localized and vulnerable. The threats are fishing, pollution, the spread of seastar and destruction of their habitat. |
+| General topic | The "Sympterichtlus unipennis" fish is the first known extinction of smooth-handed fish. These fish were found off the coast of Tasmania. Hand fish are homebodies, that is to say that their habitat area is small. If it is destroyed, they can no longer find housing. So these fish are very localized and vulnerable. The threats are fishing, pollution, the spread of seastar and destruction of their habitat. |
 | Procedure/what was examined | Conservation projects are set up by the "Handfish Conservation Project" for the safeguard of other species of handfish. |
 | Conclusions/discovery | In conclusion, it is important to participate at your level in your projects. |
 | Remaining questions | / |
