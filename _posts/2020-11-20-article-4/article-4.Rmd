@@ -1,10 +1,10 @@
 ---
 title: "Article 4"
 description: |
-  A short description of the post.
+  Sympterichtlus unipennis declared extinct.
 author:
   - name: Demoulin Ludivine
-    url: {https://www.livescience.com/handfish-extinct.html}
+    url: {}
 date: 11-20-2020
 output:
   distill::distill_article:
@@ -15,7 +15,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# Koalas face extinction in New South Wales within 30 years, report warns
+# RIP, smooth handfish. You were weird, and now you’re extinct.
 
 ## 1.Description
 
@@ -27,22 +27,34 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Word from the text | Synonym/definition in English | French translation |
 | --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| to bulge | swell | se gonfler |
+| seafloor | The bottom of the sea | fond marin |
+| grim | dreary/sombre | sinistre |
+| milestone | step | étape importante |
+| vanish | disappear | disparaître |
+| plentiful | abundant/copious | copieux |
+| to bask | laze | se prélasser |
+| coastal | seaside | côtier |
+| among | amid | parmi |
+| to nab | capture | attraper |
+| odd-looking | strange | étrange |
+| handfish | Fish having fins in the shape of hands | poisson à mains |
+| underwater | submarine | sous-marin |
+| survey | examination | enquête |
+| gleefully | cheerfully | joyeusement |
+| anglerfish | Monkfish which is part of the Lopiidae family | lotte de mer |
+| lack | need/ absence | manquer de |
+| spread | grow/ proliferate | propager |
+| scallop | shell | coquille |
+| to raise | elevate | élever |
 
 ## 3.Analysis table about the study
 
 | Questions | Answers |
 | --- | --- |
-| Researches ? |  |
-| Published in ? when (if mentioned) |  |
-| General topic |  |
-| Procedure/what was examined |  |
-| Conclusions/discovery |  |
+| Researches ? | Write by Laura Geggel |
+| Published in ? when (if mentioned) | Published in LiveScience, the 15 July 2020 |
+| General topic | The "SU" fish is the first known extinction of smooth-handed fish. These fish were found off the coast of Tasmania. Hand fish are homebodies, that is to say that their habitat area is small. If it is destroyed, they can no longer find housing. So these fish are very localized and vulnerable. The threats are fishing, pollution, the spread of seastar and destruction of their habitat. |
+| Procedure/what was examined | Conservation projects are set up by the "Handfish Conservation Project" for the safeguard of other species of handfish. |
+| Conclusions/discovery | In conclusion, it is important to participate at your level in your projects. |
 | Remaining questions | / |

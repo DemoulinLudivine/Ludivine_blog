@@ -3,7 +3,7 @@ title: "Article 2"
 description: By 2050, the koalas of New South Wales are predicted to be completely extinct.
 author:
   - name: Demoulin Ludivine
-    url: {https://www.abc.net.au/news/2020-06-30/nsw-koalas-report-warns-of-extinction/12406216}
+    url: {}
 date: 11-20-2020
 output:
   distill::distill_article:

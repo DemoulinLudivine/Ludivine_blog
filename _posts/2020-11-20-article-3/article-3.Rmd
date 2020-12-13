@@ -1,10 +1,10 @@
 ---
 title: "Article 3"
 description: |
-  A short description of the post.
+  Global biodiversity is at risk.
 author:
-  - name: Demoulin Ludivine
-    url: {https://www.bbc.co.uk/newsround/54069944}
+  - name: Ludivine Demoulin
+    url: {}
 date: 11-20-2020
 output:
   distill::distill_article:
@@ -15,34 +15,54 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# WWF Living Planet Report: Future of wildlife species in danger
+# Extinction: The Facts – An Attenborough guide to nature's destruction
 
 ## 1.Description
 
-- Source of the article : {https://www.bbc.co.uk/newsround/54069944} 
-- Date : 10 september 2020.
-- Word count : 765
+- Source of the article : {https://www.newscientist.com/article/2253673-extinction-the-facts-an-attenborough-guide-to-natures-destruction/?fbclid=IwAR1p97mjVjmG99fIvvGE9GgLkkGo7T3gA5mUGQyeJ3bYw2Dm0WKUMapHUow} 
+- Date : 6 september 2020.
+- Word count : 655
 
 ## 2.Vocabulary
 
 | Word from the text | Synonym/definition in English | French translation |
 | --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| ways | method | façon |
+| including | as well as | y compris |
+| facts | reality | faits |
+| unbearable | intolerable | insuportable |
+| unremittingly | non-stop | sans répit |
+| bleak | desolate | morne |
+| hooked | curved | accroché |
+| stellar | celestial | stellaire |
+| deeply | enormously | profond |
+| to tick | check off | cocher |
+| cooler | refreshing | refroidisseur |
+| trade | commerce/marketing | commerce |
+| to cover | protect | pour couvrir |
+| orcas | marine mammal species of the suborder of toothed cetaceans | orques |
+| soils | earth | sols |
+| to cram | pack | entasser |
+| unsatisfying | contrary of satisfying | insatisfaisant |
+| overfishing | excessive fishing | surpêche |
+| breathe | respire | respirer |
+| overconsumption | intemperance | surconsommation |
+| swine | hog | porc |
+| eloquent | persuasive | éloquent |
+| highlight | underline | surligner |
+| plunder | pillage | pillier |
+| to switch | change | commutation |
+| glib | slik | désinvolte |
+| scale | Material that allows us to go high | échelle |
+
 
 ## 3.Analysis table about the study
 
 | Questions | Answers |
 | --- | --- |
-| Researches ? |  |
-| Published in ? when (if mentioned) |  |
-| General topic |  |
-| Procedure/what was examined |  |
-| Conclusions/discovery |  |
+| Researches ? | Write by Adam Vaughan.  |
+| Published in ? when (if mentioned) | Published in NewScientist, the 6 september 2020. Extinction: The Facts was broadcast on 13 September on BBC One |
+| General topic | This article summarizes a documentary "Extinction". In this one, we are shown that more than one million species are threatened with extinction. The causes are; habitat loss, climate change, illegal trade, pollution, overfishing, overconsumption,... |
+| Procedure/what was examined | The purpose of this documentary is to raise awareness about the loss of these animals and to make us understand that human activities are the main cause. It is also shown in this report that thanks to human intervention, the population of mountain gorillas has increased from 250 to 1000. |
+| Conclusions/discovery | In conclusion, this documentary allows us to open our eyes to our current world. And that the help given to the gorillas is not enough. |
 | Remaining questions | / |

@@ -4,7 +4,7 @@ description: |
   Whales at risk.
 author:
   - name: Ludivine Demoulin
-    url: {https://www.bbc.com/news/science-environment-54485407}
+    url: {}
 date: 10-24-2020
 output:
   distill::distill_article:
