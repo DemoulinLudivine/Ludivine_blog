@@ -1,0 +1,46 @@
+---
+title: "Article 7"
+description: |
+  Creating embryos.
+author:
+  - name: Ludivine Demoulin
+    url: {}
+date: 03-01-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Embryos of Northern white rhino created. Will they save nearly extinct creature ? 
+
+## 1.Description
+
+- Source of the article : {https://www.livescience.com/northern-white-rhino-embryos-created.html} 
+- Date : 1 February 2021.
+- Word count : 579
+
+## 2.Vocabulary
+
+| Word from the text | Synonym/definition in English | French translation |
+| --- | --- | --- |
+| a lab | laboratory | laboratoire |
+| to bring | submit | apporter |
+| stash | hiding place | planque |
+| poaching | kill illegal | braconnage |
+| surrogate | substitute | substitut |
+| hopefully | with luck | avec un peu de chance |
+
+## 3.Analysis table about the study
+
+| Questions | Answers |
+| --- | --- |
+| Researches ? | Write by Patrick Pester |
+| Published in ? when (if mentioned) | Published in LiveScience, the 1 February 2021. |
+| General topic | There are only two northern white rhinos left in the world. This species was hunted for their horn. Unfortunately, these last two rhinos are female. To save this species, scientists want to create embryos. |
+| Procedure/what was examined | Scientists have preserved the sperm of a dead male and they have collected eggs from one of the females, Fatu. They're going to implant it in a southern white rhino. The surrogate mother will be integrated with the two northern white rhinos for the baby to adopt the same behavior as the northern white rhinos. |
+| Conclusions/discovery | In conclusion, perhaps science could help to save animals. |
+| Remaining questions | / |

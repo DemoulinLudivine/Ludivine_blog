@@ -1,0 +1,55 @@
+---
+title: "Article 5"
+description: |
+  Threat of sawfish extinction.
+author:
+  - name: Ludivine Demoulin
+    url: {}
+date: 03-01-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# 'Hedge trimmer' fish facing global extinction.
+
+## 1.Description
+
+- Source of the article : {https://www.bbc.com/httpsnews/science-environment-56031151} 
+- Date : 12 February 2021.
+- Word count : 443
+
+## 2.Vocabulary
+
+| Word from the text | Synonym/definition in English | French translation |
+| --- | --- | --- |
+| Hedge trimmer | shears | coupe haie |
+| fins | Hand that allows the fish to swim | palmes |
+| sawfish | swordfish | poisson scié |
+| coastlines | seaboard | côtes |
+| to vanish | disappear | en voie de disparition |
+| to evolve | develop | évoluer |
+| sense | feeling | sens |
+| prey | kill | proie |
+| gear | cogwheel | engrenage |
+| plight | predicament | détresse |
+| widespread | extensive | répandu |
+| least | minimum | au moins |
+| stronghold | protection/fortification | bastion |
+| dire | terrible/awful | affreux |
+| to offset | counterbalance | au décalage |
+
+## 3.Analysis table about the study
+
+| Questions | Answers |
+| --- | --- |
+| Researches ? | Write by Helen Briggs |
+| Published in ? when (if mentioned) | Published in BBC news, the 12 February 2021. |
+| General topic | The sawfish disappeared in 55 countries in which they lived. The causes are habitat loss and entanglement of their teeth in fishing nets. They are also hunted for their fins and teeth thatserve as food, medicine, trophies or spurs for coockle fighting. |
+| Procedure/what was examined | Eight countries contribute to the protection of this species. It is prohibited to fish for sawfish on behalf of the Convention on International Trade in Endangered Species of Flora and Fauna. It is possible to rehabilitate. |
+| Conclusions/discovery | In conclusion, the threats of extinction of marine species are due to overfishing. On the other hand, the number of people who are mobilizing save the species has increased. |
+| Remaining questions | / |

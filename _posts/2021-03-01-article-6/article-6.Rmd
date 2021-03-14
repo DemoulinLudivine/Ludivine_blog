@@ -1,0 +1,59 @@
+---
+title: "Article 6"
+description: |
+  Innovative idea to save gibons.
+author:
+  - name: Ludivine Demoulin
+    url: {}
+date: 03-01-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# A rope bridge restored a highway through the trees for endangered gibbons.
+
+## 1.Description
+
+- Source of the article : {https://www.sciencenews.org/article/rope-bridge-restored-highway-through-trees-endangered-gibbons} 
+- Date : 19 October 2020.
+- Word count : 611
+
+## 2.Vocabulary
+
+| Word from the text | Synonym/definition in English | French translation |
+| --- | --- | --- |
+| leaps | jump | sauts |
+| gully | canyon | ravin |
+| to carve | sculpt | sculpter |
+| landslide | avalanche | glissement |
+| the apes | primate/monkey | les singes |
+| rope | cord/cable | corde |
+| tether | chain | attache |
+| dweller | occupant/resident | habitant |
+| to damage | vandalize | endommager |
+| highway | main road | autoroute |
+| breeding | procreation | élevage |
+| gap | interval | écart |
+| stretch | extend | étirer |
+| to scamper | run | trottiner |
+| upper | superior | supérieur |
+| encounter | meeting | rencontre |
+| tool | instrument/utensil | outil |
+| fickel | irregular | inconstant |
+| overly | excessively | trop |
+
+## 3.Analysis table about the study
+
+| Questions | Answers |
+| --- | --- |
+| Researches ? | Write by Carolyn Wilke |
+| Published in ? when (if mentioned) | Published in ScienceNews, the 19 October 2020; |
+| General topic | Human activity separates the forests (highway). The space is too big for the gibbons to jump. This fragmentation can divide primates that are already endangered. The gibbons are exclusively apricolous if they want to cross, they can get hit by a car or fight with dogs. |
+| Procedure/what was examined | To help the gibbons, scientists have created rope bridges for the gibbons to cross safely. |
+| Conclusions/discovery | So to conclude, these artificial bridges are an innovative idea to help endangered gibbons. |
+| Remaining questions | / |
