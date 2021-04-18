@@ -1,0 +1,23 @@
+---
+title: "Introduction"
+description: |
+author:
+  - name: Ludivine Demoulin
+    url: {}
+date: 04-18-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Introduction 
+
+The subject of my portfolio "Do human activities have an impact on animal extinction ?" came naturally to me, because I would love animal behavior and ecology. It is also a topical issue, it allows to tackle climate change, poaching, pollution, ...
+Some articles talk about negative effects and talk about human activities, while other articles talk about human activities that help endangered species.
+These articles will make it possible to establish the observation that all human activities are not necessarily harmful for animals but that it is also time to change certain things to favor endangered species.
+
+

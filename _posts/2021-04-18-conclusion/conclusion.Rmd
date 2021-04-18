@@ -1,0 +1,25 @@
+---
+title: "Conclusion"
+description: |
+author:
+  - name: Ludivine Demoulin
+    url: {}
+date: 04-18-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Conclusion
+
+In conclusion, human activities have a significant impact on the disappearance of certain animals.
+The biggest causes are overfishing, poaching, lawlessness, but also climate causes; forest fire, landslide, ...
+But the lies begin to evolve. There are more and more protests and associations for the conservation of endangered species.
+Technological advances make it possible to prevent the definitive extinction of certain species. For example, the creation of northern white rhino embryos.
+So things are only starting to change, but there is still a long way to go.
+
+
